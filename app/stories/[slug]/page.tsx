@@ -3,6 +3,10 @@ import { notFound } from "next/navigation";
 import stories from "@/data/stories.json";
 import TagChip from "@/components/TagChip";
 
+export function generateStaticParams() {
+  return stories.map((s) => ({ slug: s.slug }));
+}
+
 interface Props {
   params: Promise<{ slug: string }>;
 }
