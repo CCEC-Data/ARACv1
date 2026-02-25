@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
+import PasswordGate from "@/components/PasswordGate";
 
 export const metadata: Metadata = {
   title: "ARAC×Whitman | Evidence-based learning support, built with community",
@@ -17,9 +18,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <Nav />
-        <main>{children}</main>
-        <Footer />
+        <PasswordGate>
+          <Nav />
+          <main>{children}</main>
+          <Footer />
+        </PasswordGate>
       </body>
     </html>
   );
