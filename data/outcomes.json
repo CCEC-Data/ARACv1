@@ -1,0 +1,17 @@
+{
+  "leaderGoals": {
+    "teachingSkillsMet": 94,
+    "communicationSkillsMet": 91,
+    "responsibilityGoalsMet": 96
+  },
+  "supervisorGoals": {
+    "reliabilityMet": 98,
+    "professionalismMet": 95,
+    "studentEngagementMet": 92
+  },
+  "satisfaction": {
+    "leadersSatisfied": 89,
+    "teachersSatisfied": 96,
+    "studentsReportedConfidence": 87
+  }
+}

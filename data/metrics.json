@@ -1,0 +1,27 @@
+{
+  "insightStrip": [
+    { "value": 2847, "label": "Total tutoring hours delivered", "suffix": " hrs", "context": "Across 3 academic years" },
+    { "value": 412, "label": "Students coached across WWPS", "suffix": "", "context": "Across 14 WWPS classrooms" },
+    { "value": "68%", "label": "Literacy vs Math sessions ratio", "suffix": "", "context": "Literacy-first focus" },
+    { "value": 45, "label": "Average minutes per student", "suffix": " min", "context": "Per session average" },
+    { "value": 82, "label": "Leaders meeting teaching-skill goals", "suffix": "%", "context": "Based on end-of-term rubrics" }
+  ],
+  "reach": {
+    "studentsCoached": 412,
+    "sessionsDelivered": 12453,
+    "supervisorsAndTeachers": 89
+  },
+  "delivery": {
+    "oneOnOneSessions": 8234,
+    "classroomSessions": 4219,
+    "assistingRole": 7120,
+    "leadingRole": 5333,
+    "avgMinutesPerStudent": 22,
+    "minMinutesPerStudent": 12,
+    "maxMinutesPerStudent": 45
+  },
+  "subjectDistribution": {
+    "literacy": 68,
+    "math": 32
+  }
+}

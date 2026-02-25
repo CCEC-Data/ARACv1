@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "slug": "from-struggling-to-confident",
+    "title": "From struggling to confident",
+    "tags": ["Literacy", "Confidence"],
+    "anecdote": "A second-grader who initially resisted reading aloud began requesting to read to the whole class. Over 8 sessions spanning 6 weeks, she went from avoiding books to choosing chapter books during free time.",
+    "metric": "8 sessions over 6 weeks",
+    "narrative": "When Maria first met her tutor, she would hide under the desk when it was time to read. The tutor noticed she loved drawing, so they started with picture books - Maria would draw the characters, then read the captions. By session 4, she was reading short paragraphs aloud. By session 8, she asked if she could read to the whole class. Her teacher reported a complete shift in her attitude toward literacy. Maria's mother said she now asks to visit the library every weekend.\n\nThe key was patience and meeting Maria where she was. The tutor didn't push decoding drills; she built trust through shared interests, then gently introduced text. Confidence grew alongside skills.",
+    "synthesis": "When tutors align support with student interests, literacy gains accelerate. The shift from avoidance to engagement matters as much as the shift in reading level.",
+    "sessions": 8,
+    "subject": "Literacy",
+    "duration": "6 weeks"
+  },
+  {
+    "id": "2",
+    "slug": "numbers-make-sense-now",
+    "title": "Numbers make sense now",
+    "tags": ["Math", "Classroom Support"],
+    "anecdote": "A fourth-grader who had memorized multiplication tables without understanding suddenly grasped place value after working with manipulatives. His teacher said he now explains his reasoning to peers.",
+    "metric": "12 sessions over 8 weeks",
+    "narrative": "Jake could recite his times tables perfectly, but when his teacher asked why 7 × 8 = 56, he went blank. His ARAC tutor brought base-ten blocks and spent the first few sessions just letting him explore - building numbers, breaking them apart. No worksheets. No drills.\n\nBy session 5, Jake was making his own connections. \"Oh, so 7 × 8 is like 7 groups of 8...\" He started drawing arrays to prove his answers. His teacher noticed him helping a classmate who was stuck on a similar problem, explaining his thinking step by step. The tutor noted in her log: \"Jake has moved from procedural to conceptual understanding.\"\n\nThe shift wasn't just about math. Jake's confidence in sharing his reasoning carried over to other subjects.",
+    "synthesis": "Conceptual understanding, built through manipulatives and dialogue, creates lasting change. Students who can explain their thinking become peer supports.",
+    "sessions": 12,
+    "subject": "Math",
+    "duration": "8 weeks"
+  },
+  {
+    "id": "3",
+    "slug": "quiet-leader-emerges",
+    "title": "A quiet leader emerges",
+    "tags": ["Confidence", "Classroom Support"],
+    "anecdote": "A normally reserved fifth-grader volunteered to lead a small-group reading activity after six weeks of 1-on-1 support. Her teacher said she'd never seen her take that kind of initiative before.",
+    "metric": "10 sessions over 7 weeks",
+    "narrative": "Emma rarely spoke in class. She'd raise her hand only when she was certain of the answer. Her ARAC tutor focused on building her reading fluency, but also created space for Emma to lead - choosing books, deciding the order of activities, teaching the tutor a new word she'd learned.\n\nIn session 6, Emma suggested they create a \"word wall\" for tricky vocabulary. The tutor stepped back and let her organize it. By session 10, Emma's teacher reported that she had volunteered to lead a small group during reading time. She used the same structure she'd practiced with her tutor: read aloud, discuss, then teach a new word to the group.\n\nHer mother said Emma now talks about \"her kids\"-the students in her reading group-with pride.",
+    "synthesis": "1-on-1 support can create safe space for leadership skills to emerge. Confidence built in tutoring transfers to classroom participation.",
+    "sessions": 10,
+    "subject": "Literacy",
+    "duration": "7 weeks"
+  }
+]

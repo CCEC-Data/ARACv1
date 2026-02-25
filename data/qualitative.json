@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "id": "reading-confidence",
+      "title": "Reading Confidence",
+      "description": "Teachers and tutors repeatedly observed students moving from avoidance to engagement. The pattern was consistent: when students felt safe to make mistakes and were met at their level, they began volunteering to read aloud, choosing harder books, and helping peers.",
+      "quotes": [
+        "She used to hide under the desk. Now she asks to read to the whole class.",
+        "He went from 'I can't' to 'Can I try the next page?' in about four weeks."
+      ],
+      "relatedStorySlug": "from-struggling-to-confident"
+    },
+    {
+      "id": "conceptual-understanding",
+      "title": "Conceptual Understanding",
+      "description": "Many students had procedural fluency without conceptual grasp - they could compute but not explain. Tutors who used manipulatives, visual models, and open-ended questioning saw students shift from memorization to reasoning.",
+      "quotes": [
+        "I never understood why it worked until we used the blocks. Now it makes sense.",
+        "He can explain his thinking to other kids. That's new."
+      ],
+      "relatedStorySlug": "numbers-make-sense-now"
+    },
+    {
+      "id": "leadership-emergence",
+      "title": "Leadership Emergence",
+      "description": "Quiet or hesitant students who received consistent 1-on-1 support began taking initiative in the classroom - leading small groups, helping peers, sharing their strategies. Tutors created low-stakes opportunities for leadership that transferred to the larger class.",
+      "quotes": [
+        "I never thought she'd volunteer to lead. She's a different kid now.",
+        "He started teaching his classmates how he figured it out. That's leadership."
+      ],
+      "relatedStorySlug": "quiet-leader-emerges"
+    }
+  ]
+}
